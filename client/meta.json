@@ -1,0 +1,7 @@
+{
+  "day": "14 / 20",
+  "title": "Parçalı Dosya Yükleme ve Paylaşım",
+  "description": "Dosyaları 256 KB parçalarla yükle; tamamlanan dosyaları bir saatlik bağlantıyla paylaş.",
+  "mode": "8 MB sınır · süreli paylaşım",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
